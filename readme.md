@@ -1,1 +1,1 @@
-This is a project created by Patricia Steinberg during the course "JavaScript Completo ES6" by Origamid.
+This is a project created by Patricia Steinberg during the "JavaScript Completo ES6" course by Origamid.
